@@ -32,11 +32,15 @@ A modern, responsive weather application that provides real-time weather informa
    git clone https://github.com/JZ556/weather-app.git
    ```
 
-2. **Open the project**:
+2. **Set up your API key**:
+   - Get a free API key from [OpenWeatherMap](https://openweathermap.org/api)
+   - Open `index1.html` and replace `'YOUR_API_KEY_HERE'` with your actual API key
+
+3. **Open the project**:
    - Navigate to the project folder
    - Open `index1.html` in your web browser
 
-3. **Search for weather**:
+4. **Search for weather**:
    - Enter any city name in the search box
    - Click the search button or press Enter
    - View real-time weather information

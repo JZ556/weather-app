@@ -1,3 +1,6 @@
 # Ignore tutorial files - only upload my working code
 index.html
 style.css
+
+# Environment variables (API keys)
+.env
